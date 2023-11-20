@@ -1,0 +1,19 @@
+/* stylesheet */
+
+* {
+    background-color: darkred;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#main {
+    text-align: center;
+    font-size: 44px;
+}
+
+.img {
+    text-align: center;
+}
+
+.recipes {
+    font-size: 33px;
+}
