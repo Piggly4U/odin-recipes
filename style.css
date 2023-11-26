@@ -1,10 +1,10 @@
 /* stylesheet */
 
 * {
-    background-color: darkred;
+    background-color: orangered;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
+/* index */
 #main {
     text-align: center;
     font-size: 44px;
@@ -16,4 +16,15 @@
 
 .recipes {
     font-size: 33px;
+    margin: 10px;
+    margin-top: 20px;
 }
+/* pages */
+.header {
+    text-align: center;
+}
+.description {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
